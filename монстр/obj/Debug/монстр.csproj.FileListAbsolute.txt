@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\bin\Debug\монстр.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\bin\Debug\монстр.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\bin\Debug\монстр.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\bin\Debug\библиотека.dll
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\bin\Debug\библиотека.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\монстр\obj\Debug\монстр.csproj.CopyComplete

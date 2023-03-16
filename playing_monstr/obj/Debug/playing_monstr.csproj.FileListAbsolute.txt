@@ -1,0 +1,14 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\bin\Debug\playing_monstr.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\bin\Debug\playing_monstr.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\bin\Debug\playing_monstr.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\bin\Debug\библиотека.dll
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\bin\Debug\библиотека.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.csproj.CopyComplete
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\playing_monstr\obj\Debug\playing_monstr.Form1.resources

@@ -1,0 +1,6 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\bin\Debug\библиотека.dll
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\bin\Debug\библиотека.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\obj\Debug\библиотека.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\obj\Debug\библиотека.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\obj\Debug\библиотека.dll
+C:\Users\325L-11\Desktop\шумкова пр-21\библиотека\obj\Debug\библиотека.pdb
